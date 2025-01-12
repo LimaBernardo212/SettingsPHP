@@ -1,0 +1,38 @@
+nav{
+    display: none;
+}
+a#burguinho{
+    display: block;
+}
+a#burguinho > img{
+    width: 45%;
+}
+#presentation > img{
+    width: 75vw;
+    height: 100vh;
+}
+#imagesett{
+    display: block;
+    border-radius: 5%;
+    transform: translate(15vw, -2.5vh);
+    width: 300px;
+}
+#diveren{
+    margin-left: 15vw;
+}
+#divere{
+    margin-left: 8vw;
+}
+#trans{
+    flex-wrap: wrap;
+}
+#trans img{
+    margin: auto;
+}
+#transit p{
+    margin-left: 75px;
+    max-width: 350px;
+}
+#transit .title{
+    margin-left: 50px;
+}
